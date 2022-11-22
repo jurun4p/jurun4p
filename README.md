@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jurun4p
+- 👀 I’m interested in Online and Offline game developement
+- 🌱 I’m currently learning c# and Lua //c# for Unity and Lua for Roblox Studio
+- 📫 You can contact me : panurujinnupat9@gmail.com
